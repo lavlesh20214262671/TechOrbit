@@ -1,6 +1,6 @@
 
 # TechOrbit - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+:rocket: [Link to website][https://tech-orbit.vercel.app/]
 
 
 ![Main Page](images/mainpage.png)
@@ -123,10 +123,10 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 ## Usage
 
-1. Start the server: `npm start`
-2. Open a new terminal and navigate to the `client` directory: `cd client`
-3. Start the React development server: `npm start`
 
+1. Open a new terminal and navigate to the `server` directory: `cd server`
+ 2. start the server: `npm start`
+3. Start the React development server: `npm start`
 Access the application in your browser at `http://localhost:3000`.
 
 
