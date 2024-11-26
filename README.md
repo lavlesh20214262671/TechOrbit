@@ -129,4 +129,9 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 3. Start the React development server: `npm start`
 Access the application in your browser at `http://localhost:3000`.
 
-
+<p>
+  Project Link: 
+  <a href="https://studynotion-frontend-tau.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Project Link Icon" style="width:20px;height:20px;"/>
+  </a>
+</p>
